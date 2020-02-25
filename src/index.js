@@ -1,5 +1,5 @@
 // write your createStore function here
-function createStore(reducer){
+let store = function createStore(reducer){
    let state;
 
    function dispatch(action){
