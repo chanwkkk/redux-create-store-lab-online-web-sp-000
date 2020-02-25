@@ -11,7 +11,7 @@ function createStore(reducer){
      return state;
    }
 
-   return(){
+   return{
      dispatch;
      getState;
    }
