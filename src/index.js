@@ -15,8 +15,6 @@ function createStore(reducer){
      dispatch;
      getState;
    }
-
-
 }
 
 function candyReducer(state = [], action) {
